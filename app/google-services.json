@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "366690040711",
+    "firebase_url": "https://xeusgate.firebaseio.com",
+    "project_id": "xeusgate",
+    "storage_bucket": "xeusgate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:366690040711:android:9e225bd25e361f39",
+        "android_client_info": {
+          "package_name": "com.example.nailamundev.xeusgate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "366690040711-1eiiffq7egivuci38fu1ac4jgj5gv6c4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw-9ELEZcxoGtncTOEcAQfvfU7hPFeACk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
